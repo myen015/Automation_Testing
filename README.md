@@ -9,6 +9,7 @@ This project aims to automate testing of the OrangeHRM website using **Selenium*
 
 
 **Features**
+
 ***Login Functionality Testing:*** Verify the login functionality to ensure users can successfully log in to the OrangeHRM system.
 
 ***New Post Creation Testing:*** Test the functionality to create a new post in the Buzz section.
